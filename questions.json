@@ -1,0 +1,26 @@
+[
+    {
+        "question" : "What is the color of orange?",
+        "choice1": "Red",
+        "choice2": "Green",
+        "choice3": "Orange",
+        "choice4": "Gray",
+        "answer": 3
+    },
+    {
+        "question": "What is the color of sea?",
+        "choice1": "Blue",
+        "choice2": "Green",
+        "choice3": "Yellow",
+        "choice4": "Brown",
+        "answer": 1
+    },
+    {
+        "question": "How many fingers in a human hand?",
+        "choice1": "Twelve",
+        "choice2": "Two",
+        "choice3": "Ten",
+        "choice4": "Five",
+        "answer": 4
+    }
+]

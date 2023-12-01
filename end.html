@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="app.css">
+</head>
+<body>
+    <div class="container">
+        <div id="end" class="flex-center flex-column">
+            <h1 id="finalScore">0</h1>
+            <form action="">
+                <input type="text" name="username" id="userName" placeholder="Enter your name">
+                <button type="submit" id="save" onclick="saveScore(event)" class="btn" disabled> Save </button>
+                <a class="btn" href="/game.html">Play</a>
+                <a class="btn" href="/highscores.html">High Scores</a>
+            </form>
+        </div>
+    </div>
+
+    <script src="end.js"></script>
+</body>
+</html>
